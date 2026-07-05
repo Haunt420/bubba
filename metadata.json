@@ -1,0 +1,6 @@
+{
+  "name": "ClipMerge",
+  "description": "Floating clipboard manager to append and prepend copied text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
